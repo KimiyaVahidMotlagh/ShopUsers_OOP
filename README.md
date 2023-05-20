@@ -4,7 +4,7 @@ The project is a command-line user interface. This project was my AP final proje
 
 # Table of Content
 - [Data Engineering](https://github.com/KimiyaVahidMotlagh/ShopUsers_OOP/tree/main#data-engineering)
-- [Interface Functions]()
+- [Interface Functions](https://github.com/KimiyaVahidMotlagh/ShopUsers_OOP/blob/main/README.md#interface-functions)
 - [Main Functions]()
 
 # Data Engineering
