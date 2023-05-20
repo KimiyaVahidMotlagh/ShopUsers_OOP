@@ -1,5 +1,5 @@
 # ShopUsers_OOP
-This project is object-oriented programming in C++. We needed to envision a shop with users who want to buy the shop's products and Admins who can and products as well. The focus is programming with Classes and inheritance and using everything OOP has to offer. The project is a command-line user interface. This project was my AP final project. 
+This project is object-oriented programming in C++. We needed to envision a shop with users who want to buy the shop's products and Admins who can and products as well. The focus is programming with Classes and inheritance and using everything OOP has to offer. The project is a command-line user interface program. This project was my AP final project. 
 
 # Table of Content
 - [Data Engineering](https://github.com/KimiyaVahidMotlagh/ShopUsers_OOP/tree/main#data-engineering)
