@@ -23,6 +23,12 @@ Each user has user_id, password, and wallet_credit as its variable. Each user ha
 
 
 # Interface Functions
+This functions contains the interface for a menu-driven application, designed to handle different user interactions based on their role and the context of the operation. Each function represents a different menu, corresponding to the various stages and options available within the application.
+- Main_menu(): displays the main menu to all users.
+- User_logged_in_menu(): presents the menu for logged-in users.
+- Admin_Logged_in_menu(): provides the menu for logged-in administrators.
+- Product_menu(): shown to administrators for managing products. 
+- Edit_product_menu(): this menu is for editing specific details of a product, after selecting an existing product to edit.
 
 
 # Main Function
