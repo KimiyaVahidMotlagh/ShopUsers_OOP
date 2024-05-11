@@ -32,4 +32,13 @@ This functions contains the interface for a menu-driven application, designed to
 
 
 # Main Function
+The main() function serves as the central control system for the application, orchestrating user authentication, role-based access control, and navigation through various menus depending on the user's actions and inputs. It utilizes a loop structure to manage state transitions and user interactions until the user decides to exit.
 
+- Initialization: Initializes lists for storing users, products, and discount codes, and sets control flags for main and login loops.
+- Main Menu Handling: Displays the main menu and navigates to appropriate sub-menus or actions based on user input:
+Login: Prompts for username and checks credentials. If Admin, accesses admin-specific functionalities; if User, accesses user-specific functionalities.<br/>
+View Store: Displays available products.<br/>
+Exit: Terminates the application.<br/>
+- User/Admin Session: Once logged in, the user enters a session where they can perform role-specific actions until they choose to log out.
+- Product and Credit Transactions: Depending on the user role, they can engage in buying products, adding or editing products (Admin only), and managing their wallet credits.
+- Logout and Exit: Users can log out or exit directly from the main menu, which ends their session or terminates the application respectively.
