@@ -4,7 +4,7 @@ This project is object-oriented programming in C++. We needed to envision a shop
 # Table of Content
 - [Data Engineering](https://github.com/KimiyaVahidMotlagh/ShopUsers_OOP/tree/main#data-engineering)
 - [Interface Functions](https://github.com/KimiyaVahidMotlagh/ShopUsers_OOP/blob/main/README.md#interface-functions)
-- [Main Functions](https://github.com/KimiyaVahidMotlagh/ShopUsers_OOP/blob/main/README.md#main-functions)
+- [Main Function](https://github.com/KimiyaVahidMotlagh/ShopUsers_OOP/blob/main/README.md#main-function)
 
 # Data Engineering
 
@@ -24,5 +24,6 @@ Each user has user_id, password, and wallet_credit as its variable. Each user ha
 
 # Interface Functions
 
-# Main Functions
+
+# Main Function
 
